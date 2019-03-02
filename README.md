@@ -1,6 +1,6 @@
-##PickYourTrail Developer Hiring Test
+## PickYourTrail Developer Hiring Test
 
-####Language: Python 2.7.1
+#### Language: Python 2.7.10
 
 Folder Structure:
 ```
@@ -17,24 +17,24 @@ src
  ```  
 
 
-####Question1:
+#### Question1:
 **DataStructure:** _Array_ implemented using python list
 
 **Sort Algorithm:** _Time sort_
 
-####Question2:
+#### Question2:
 **DataStructure:** _Stack_ implemented using python list
 
-####Question3:
+#### Question3:
 **DataStructure:** _Array_ implemented using python list
 
 **Sort Algorithm:** _Time sort_
 
 
-#####Note: 
+##### Note: 
 Usage of most inbuild methods have been avoided
  
-####Execution options
+#### Execution options
 1) Default data: The pickyourtail.py run with no arguments solves all three problems with sample data
 
     ```
@@ -47,12 +47,12 @@ Usage of most inbuild methods have been avoided
     2. input data as stdin or default 
     
     ```
-    #default input data
+    #  default input data
     python src/pickyourtrail.py 1 default
     ```
     or 
     ```
-    #input data from stdin
+    #  input data from stdin
     python src/pickyourtrail.py 2 stdin
     ```
 1) The individual solutions for all three problems are in solutions directory
@@ -61,12 +61,12 @@ Usage of most inbuild methods have been avoided
 E.g.
 
     ```bash 
-    #default input data
+    #  default input data
     python src/solutions/superstack.py default 
     ```
     or 
     ```bash
-    #input data from stdin
+    #  input data from stdin
     python src/solutions/superstack.py
     ```
 
