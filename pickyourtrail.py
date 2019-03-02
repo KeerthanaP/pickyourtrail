@@ -2,8 +2,8 @@
 Wrapper to run the solutions
 """
 __author__ = "Keerthana Prabhakaran"
-from manipulation import Manipulation
-from utils.stack import Stack
+from src.manipulation import Manipulation
+from src.utils.stack import Stack
 
 
 class Problem(object):

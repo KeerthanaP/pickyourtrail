@@ -38,7 +38,7 @@ Usage of most inbuild methods have been avoided
 1) Default data: The pickyourtail.py run with no arguments solves all three problems with sample data
 
     ```
-    python src/pickyourtrail.py 
+    python pickyourtrail.py 
     ```
 
 2) Custom data: The pickyourtail.py program takes two or no arguments 2 other arguments.
@@ -48,12 +48,12 @@ Usage of most inbuild methods have been avoided
     
     ```
     #  default input data
-    python src/pickyourtrail.py 1 default
+    python pickyourtrail.py 1 default
     ```
     or 
     ```
     #  input data from stdin
-    python src/pickyourtrail.py 2 stdin
+    python pickyourtrail.py 2 stdin
     ```
 1) The individual solutions for all three problems are in solutions directory
 
