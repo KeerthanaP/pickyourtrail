@@ -10,10 +10,12 @@ src
         - superstack.py
         - counting_pairs.py
     -> utils
+        - __init__.py
         - array.py
         - stack.py
+    - __init__.py
     - manipulations.py
-    - pickyourtrail.py
+- pickyourtrail.py
  ```  
 
 
